@@ -53,19 +53,28 @@ There is no change in the spending scores for Thomas Highschool.
 
 - Scores by school size
 
+![School Size 1](https://user-images.githubusercontent.com/103234661/189547408-eaeddbb0-8c6f-40e8-8995-b8ae7093a5ad.png)
 
+The school size remains fairly unchanged.
 
 - Scores by school type
 
 Before:
+
 ![before school type scores](https://user-images.githubusercontent.com/103234661/189505674-28c6b394-493a-45c9-8f8d-6bf9b1914067.png)
 
 After:
+
 ![After school type scores](https://user-images.githubusercontent.com/103234661/189505678-1f33fe23-e830-49bc-95e0-2046dd1f987e.png)
 
-
-
-
+After our analysis, the data remains unchanged.
 
 ## Summary
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+
+Four changes to the school district analysis after the reading and math scores were replaced are:
+
+1. Thomas High School dropped from second place to eighth place in terms of overall passing grades due to the replaced reading and math scores
+2. Thomas High School's overall passing % changed from 91% to 65%
+3. The ninth grade scores for reading and math are not available and are replaced with NaN values
+4. Neglible differences were made in all other of Thomas High Schools statistics
